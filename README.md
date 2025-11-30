@@ -10,7 +10,7 @@ The animation contains bilingual title slides (Persian/Arabic using XeLaTeX), ge
 
 **Author:** Amirhosein Jazayeri
 **Based on:** material from Dr. Najafi’s Real Analysis course
-![Animation Preview](https://raw.githubusercontent.com/Poku19988/Totally-bounded-sets_manim/gif.gif)
+![Compactness animation](gif.gif)
 
 ---
 
