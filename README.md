@@ -10,7 +10,10 @@ The animation contains bilingual title slides (Persian/Arabic using XeLaTeX), ge
 
 **Author:** Amirhosein Jazayeri
 **Based on:** material from Dr. Najafi’s Real Analysis course
-
+<video width="640" controls>
+  <source src="gif.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 ---
 
 ## Demo / What it shows
